@@ -1,0 +1,10 @@
+C:\Users\harve\source\repos\Airstrike\Airstrike\bin\Debug\net5.0\Airstrike.deps.json
+C:\Users\harve\source\repos\Airstrike\Airstrike\bin\Debug\net5.0\Airstrike.dll
+C:\Users\harve\source\repos\Airstrike\Airstrike\bin\Debug\net5.0\Airstrike.pdb
+C:\Users\harve\source\repos\Airstrike\Airstrike\obj\Debug\net5.0\Airstrike.csproj.AssemblyReference.cache
+C:\Users\harve\source\repos\Airstrike\Airstrike\obj\Debug\net5.0\Airstrike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harve\source\repos\Airstrike\Airstrike\obj\Debug\net5.0\Airstrike.AssemblyInfoInputs.cache
+C:\Users\harve\source\repos\Airstrike\Airstrike\obj\Debug\net5.0\Airstrike.AssemblyInfo.cs
+C:\Users\harve\source\repos\Airstrike\Airstrike\obj\Debug\net5.0\Airstrike.csproj.CoreCompileInputs.cache
+C:\Users\harve\source\repos\Airstrike\Airstrike\obj\Debug\net5.0\Airstrike.dll
+C:\Users\harve\source\repos\Airstrike\Airstrike\obj\Debug\net5.0\Airstrike.pdb

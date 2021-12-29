@@ -1,0 +1,13 @@
+{
+    "Name": "[JA] Airstrike",
+    "Author": "XxHarvzBackxX",
+    "Version": "1.0.0",
+    "Description": "Adds the Airstrike Flare item.",
+    "MinimumApiVersion": "3.6.0",    
+    "UniqueID": "harvz.Airstrike.JA",    
+    "UpdateKeys": [ "Nexus:???" ],
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    }
+}
